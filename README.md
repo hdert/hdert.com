@@ -21,7 +21,7 @@ to get your free quote!
 - [x] Across from the UK
 - [x] In the EU
 
-## France has
+## France has:
 
 - [x] Paris
 - [x] Mt Blanc
@@ -39,7 +39,7 @@ They're all for sale for people like yous
 
 1. Get out your wallets
 2. and money to dance
-3. open your minds because we're
+3. open your minds 'cause we're
 
 # Selling France
 
@@ -47,8 +47,10 @@ Relax my friend
 
 - [x] We offer free shipping
 
-So you can sit back give your hot drink a sipping^
+So you can sit back give your hot drink a sipping^\*
 
 \+ French Fries are not French
 
 ^ France does not come with hot drinks
+
+\* slurp
