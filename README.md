@@ -1,5 +1,3 @@
-# hdert.com
-
 The personal website of hdert
 
 ## Projects:
