@@ -2,11 +2,11 @@ The personal website of hdert
 
 ## Projects:
 
-[The History of Linux](linuxhistory.hdert.com)
+[The History of Linux](https://linuxhistory.hdert.com)
 
 ### GitHub:
 
-[hdert](github.com/hdert)
+[hdert](https://github.com/hdert)
 
 ## We're selling France!
 
