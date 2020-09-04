@@ -1,10 +1,14 @@
-# [hdert.com](https://www.hdert.com)
+# hdert.com
 
 The personal website of hdert
 
 ## Projects:
 
-[The History of Linux](https://linuxhistory.hdert.com)
+[The History of Linux](linuxhistory.hdert.com)
+
+### GitHub:
+
+[hdert](github.com/hdert)
 
 ## We're selling France!
 
