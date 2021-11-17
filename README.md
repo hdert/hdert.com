@@ -4,6 +4,10 @@ The personal website of hdert
 
 [The History of Linux](https://linuxhistory.hdert.com)
 
+[Games In Godot](https://games.hdert.com)
+
+[My Fork](https://c.hdert.com) of [GSnailG's](https://github.com/GSnailG) interactive, unofficial, [Cards Against Humanity Black card addon](https://cards.hdert.com).
+
 ### GitHub:
 
 [hdert](https://github.com/hdert)
