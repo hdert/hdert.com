@@ -1,66 +1,21 @@
-The personal website of hdert
+Justin is a Year 13 student at Mountainview High School interested in Python, Linux, and Physics.
 
 ## Projects:
 
-[The History of Linux](https://linuxhistory.hdert.com)
+### [The History of Linux](https://linuxhistory.hdert.com)
 
-[Games In Godot](https://games.hdert.com)
+| <img src="https://user-images.githubusercontent.com/40216616/147902664-5abe0fb1-20b7-4487-bf09-636172cfc5a5.png" width="850"/>
+|:---:
+| <img src="https://user-images.githubusercontent.com/40216616/147902675-8098e99d-2484-4608-9ad3-e5076a54b000.png" width="850"/>
+| <img src="https://user-images.githubusercontent.com/40216616/147902687-5de9fae3-6b91-4c78-a2c4-801cada29736.png" height="500"/>
 
-[My Fork](https://c.hdert.com) of [GSnailG's](https://github.com/GSnailG) interactive, unofficial, [Cards Against Humanity Black card addon](https://cards.hdert.com).
+### [Games In Godot](https://games.hdert.com)
 
-### GitHub:
+### Links:
 
-[hdert](https://github.com/hdert)
+[GitHub](https://github.com/hdert)
 
-## We're selling France!
+[Linkedin](https://www.linkedin.com/in/justinmuirhead)
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="justin-muirhead-909aa421a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nz.linkedin.com/in/justin-muirhead-909aa421a?trk=profile-badge">Justin Muirhead</a></div>
 
-Contact us today on 0118 999 881 999 119 725 3
-to get your free quote!
-
-### Again that's 0118 999 881 999 119 725 3 !
-
-## Comes with:
-
-- [x] Baguettes,
-- [x] Croissants,
-- [x] Quiche,
-- [x] Fondue,
-
-## France is known for being:
-
-- [x] Across from the UK
-- [x] In the EU
-
-## France has:
-
-- [x] Paris
-- [x] Mt Blanc
-- [x] Nice
-- [x] Toulouse
-
-They're all for sale for people like yous
-
-## Also comes with:
-
-- [x] Pastries
-- [x] Pies
-- [x] good ol' French Fries+
-- [x] blue skies
-
-1. Get out your wallets
-2. and money to dance
-3. open your minds 'cause we're
-
-# Selling France
-
-Relax my friend
-
-- [x] We offer free shipping
-
-So you can sit back give your hot drink a sipping^\*
-
-\+ French Fries are not French
-
-^ France does not come with hot drinks
-
-\* slurp
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
