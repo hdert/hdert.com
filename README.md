@@ -1,3 +1,8 @@
+---
+title: Home | Hdert's Website
+permalink: index.html
+---
+
 Justin is a Year 13 student at Mountainview High School interested in Python, Linux, and Physics.
 
 ## Projects:
