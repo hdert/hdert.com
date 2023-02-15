@@ -1,6 +1,6 @@
 ---
 title: Home | Hdert's Website
-description: Justin is a Year 13 student at Mountainview High School interested in Python, Linux, and Physics.
+description: Justin is a first year student studying Computer Science at the University of Canterbury. Justin is interested in Python, Linux, and Rust.
 permalink: index.html
 page.title: Home | Hdert's Website
 accordion:
