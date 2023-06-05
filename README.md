@@ -1,6 +1,6 @@
 ---
 title: Home | Hdert's Website
-description: Justin is a first year student studying Computer Science at the University of Canterbury. Justin is interested in Python, Linux, and Rust.
+description: Justin is a first year Computer Science student at the University of Canterbury. Justin is interested in Python, Linux, and Rust.
 permalink: index.html
 page.title: Home | Hdert's Website
 accordion:
@@ -15,6 +15,10 @@ accordion:
 <!-- Justin is a Year 13 student at Mountainview High School interested in Python, Linux, and Physics. -->
 
 # Projects:
+
+## 2023
+
+### [Cloudflare DDNS with Access Group Updating](https://github.com/hdert/cloudflare-ddns)
 
 ## 2022
 
