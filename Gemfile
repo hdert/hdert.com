@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.9.2"
+gem "jekyll", "~> 3.9.3"
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8.1"
 
-gem "github-pages", "~> 227", group: :jekyll_plugins
+gem "github-pages", "~> 228", group: :jekyll_plugins
 
