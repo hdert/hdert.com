@@ -20,13 +20,13 @@ accordion:
 
 ## 2024
 
-### [General Purpose Calculator Library](https://github.com/hdert/zig-calculator)
+### [Aerwig](https://github.com/hdert/aerwig)
 
-An extensible calculator library written in Zig, with it I have created both a command line calculator, also written in Zig, and a web-based calculator that uses this library in the backend, compiled to WASM, with some glue code.
+An Expression Resolver, Written in Zig. An extensible calculator/expression library written in Zig, with it I have created both a command line calculator, also written in Zig, and a web-based calculator that uses this library in the backend, compiled to WASM, with some glue code.
 
-#### [Zig Command Line Calculator](https://github.com/hdert/zig-calculator)
+#### [Aerwig-cli](https://github.com/hdert/aerwig)
 <!-- Add Images -->
-#### [Web-Based Calculator](https://calculator.hdert.com/)
+#### [Waerwig](https://calculator.hdert.com/)
 <!-- Add Images -->
 
 ## 2023
