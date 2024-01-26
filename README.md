@@ -26,8 +26,12 @@ An Expression Resolver, Written in Zig. An extensible calculator/expression libr
 
 #### [Aerwig-cli](https://github.com/hdert/aerwig)
 <!-- Add Images -->
+---
 #### [Waerwig](https://calculator.hdert.com/)
+[Waerwig's source code](https://github.com/hdert/waerwig)
 <!-- Add Images -->
+
+---
 
 ## 2023
 
@@ -37,34 +41,62 @@ With the help of [Tim Lamborn](https://github.com/Lambosaurus) I assembled some 
 
 <!-- Add Images -->
 
-### [Cloudflare DDNS with Access Group Updating](https://github.com/hdert/cloudflare-ddns)
+---
+
+### [Cloudflare WagDNS](https://github.com/hdert/cf-wagdns)
 
 A DNS record updater program written in Rust with the ability to update Cloudflare Zero Trust Access Group Rules.
 
 I made this because there was a lack of software that could update both DNS records and Zero Trust rules at once, which was something that I required for my home-lab setup. I decided to use Rust to do it since I wanted to improve on my skills in the language.
 
+---
+
 ## 2022
 
 ### [Clothing Allowance Tracker](https://github.com/hdert/dtgLvl3PyAssessment2022)
 
+---
+
 ### [What Lies Beneath Exhibition Website](https://exhibition.hdert.com)
+[Source code](https://github.com/hdert/dtgLvl3Assessment2022)
+
+---
 
 ### [Banano Website](https://bananochallenge.hdert.com)
+[Source code](https://github.com/hdert/banano_challenge)
+
+---
 
 ### [Games In Godot](https://games.hdert.com)
+[Source code](https://github.com/hdert/godot_tutorial_result)
+
+---
 
 ### [Beautiful New Zealand Website](https://beautifulnewzealand.hdert.com)
+[Source code](https://github.com/hdert/BeautifulNewZealandWebsite)
+
+---
 
 ## 2021
 
 ### [Alternative MVHS Website](https://mountainview.hdert.com)
+[Source code](https://github.com/hdert/dtgLvl2Assessment2021)
+
+---
 
 ### [Python TUI Hangman Game](https://github.com/hdert/dtgLvl2PyAssessment2021)
+
+---
 
 ## 2020
 
 ### [The History of Linux](https://linuxhistory.hdert.com)
+[Source code](https://github.com/hdert/dtgLvl1Assessment2020)
 
 {% include accordion.html %}
 
+---
+
 ### [Python Quiz](https://github.com/hdert/python-quiz)
+
+---
