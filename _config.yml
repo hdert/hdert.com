@@ -1,17 +1,49 @@
-lsi: false
-safe: true
-source: ./
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-remote_theme: pages-themes/cayman@v0.2.0
+title: "Hdert's website"
+description: "A website with Hdert's projects and contact information"
+url: https://www.hdert.com
+
+theme: cvless
+
+# site settings
+cv: false
+
+# lsi: false
+# safe: true
+# source: ./
+# incremental: false
+# highlighter: rouge
+# gist:
+#     noscript: false
+# kramdown:
+#     math_engine: mathjax
+#     syntax_highlighter: rouge
+# repository: hdert/hdert.github.io
+
+# author settings
+author:
+    name: Hdert
+
+# profile links
+profile:
+    mastodon: https://mastodon.social/@hdert
+    linkedin: https://www.linkedin.com/in/justinmuirhead
+    github: https://github.com/hdert
+    cv: false
+
+# build settings
+permalink: pretty
+exclude:
+    - LICENSE
+    - README.md
+    - Gemfile
+    - vendor
+
 plugins:
-  - jekyll-remote-theme
-title: ""
-github:
-  is_project_page: false
-repository: hdert/hdert.github.io
+    - jekyll-feed
+    - jekyll-gist
+    - jekyll-paginate-v2
+    - jekyll-seo-tag
+    - jekyll-sitemap
+
+sass:
+    sourcemap: never
