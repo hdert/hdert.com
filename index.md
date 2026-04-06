@@ -13,6 +13,6 @@ accordion:
 
 # About
 
-Kia ora! I'm a final year Computer Science student at the University of Canterbury, and yes, that's my full name. I'm interested in programming in all sorts of languages, including but not limited to: Python, Rust, C, and Zig. I'm also a big fan of Linux, and I daily Arch
+Kia ora! I'm a software developer in the Wellington region. I'm interested in programming in all sorts of languages, including but not limited to: Python, Rust, C, and Zig. I'm also a big fan of Linux, and I daily Arch
 
 {% include_relative _includes/projects.md %}
